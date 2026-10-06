@@ -1,6 +1,6 @@
 // FUELGUARD - SMART ANTI FUEL THEFT DETECTION SYSTEM
 // Developed by KALAM ELECTRONICS
-// Credit Date: 28.09.2026
+// Date: 28.09.2026
 
 #include <WiFi.h>
 #include <WebServer.h>
